@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(170, 166, 166);
+}
+.left {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+i.fa-regular.fa-bookmark {
+    font-size: 25px;
+}
+
+.left i {
+    font-size: 25px;
+}
+
+.fa-solid {
+    font-size: 25px;
+}
+
+#name {
+    margin: 0;
+}
+
+.post {
+    width: 450px;
+    height: 550px;
+    border: 5px solid black;
+    margin: auto;
+    background-color: white;
+}
+
+.post_header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: yellow;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.post {
+    background-color: yellow;
+}
+
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+   
+}
+
+.left i {
+    margin: 0 3.5px;
+}
+
+.btm-txt {
+    display: flex;
+    line-height: 1px;
+    align-items: center;
+}
+
+b {
+    margin: 0 3px;
+}
+
+.description {
+    padding: 5px;
+}
